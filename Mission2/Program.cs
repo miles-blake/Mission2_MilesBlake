@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp2
+// Miles Blake IS 413 Section 3
+
+namespace ConsoleApp2
 {
     public class DiceRoller
     {
@@ -24,6 +26,7 @@
     {
         private static void Main()
         {
+            // Start of simulation messages
             Console.WriteLine("Welcome to the dice throwing simulator!");
 
             Console.Write("How many dice rolls would you like to simulate? ");
